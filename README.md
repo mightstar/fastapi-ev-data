@@ -15,7 +15,7 @@ This FastAPI application fetches electric vehicle data from the Washington State
 
 ```bash
 git clone <repository_url>
-cd test-vehicle
+cd fastapi-ev-data
 ```
 
 ### 2. Set up a virtual environment:
