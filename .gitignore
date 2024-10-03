@@ -1,0 +1,7 @@
+# Virtual Environment
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pychache__/
+*.py[cod]
+*.pyo
