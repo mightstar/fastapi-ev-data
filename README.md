@@ -34,7 +34,7 @@ pip install -r requirements.txt
 ### 4. Run the application:
 
 ```bash
-unicorn main:app --reload
+uvicorn main:app --reload
 ```
 
 This will run the application locally at http://127.0.0.1:8000
